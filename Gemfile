@@ -15,6 +15,7 @@ end
 group :development,:test do
   gem 'rspec', '2.5.0'
   gem 'rspec-rails', '2.5.0'
+  gem 'annotate-models', '1.0.4'
 end
 
 # Use unicorn as the web server
